@@ -16,7 +16,7 @@ io.on('connection', socket =>{
    
 });
 
-mongoose.connect('mongodb+srv://tindev:tindev@cluster0-hvpip.mongodb.net/tindevDB?retryWrites=true&w=majority', {
+mongoose.connect('oops', {  //change this
     useNewUrlParser: true
 });
 
