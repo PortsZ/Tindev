@@ -1,3 +1,2 @@
 # Tindev
- Tinder-like app for devs
- Added to GitHub!
+Full stack tinder clone, made with NodeJs/ReactJS/ReactNative
